@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaheer Hashim</h1>
-<p>Experienced Frontend Developer with 4+ years of expertise in web development, including blockchain DApp development and remote work experience. Skilled in building interactive, user-friendly interfaces using modern technologies. Adept at collaborating in teams and thriving independently to adapt to project needs. Worked on large-scale enterprise applications and small startups, delivering high-quality front-end solutions. Passionate about creating seamless user experiences and contributing to cutting-edge blockchain projects.</p>
+<p>Experienced Frontend Developer with 5+ years of expertise in web development, including blockchain DApp development and remote work experience. Skilled in building interactive, user-friendly interfaces using modern technologies. Adept at collaborating in teams and thriving independently to adapt to project needs. Worked on large-scale enterprise applications and small startups, delivering high-quality front-end solutions. Passionate about creating seamless user experiences and contributing to cutting-edge blockchain projects.</p>
 
 <p align="left"> <a href="https://twitter.com/shaheerhashim10" target="blank"><img src="https://img.shields.io/twitter/follow/shaheerhashim10?logo=twitter&style=for-the-badge" alt="shaheerhashim10" /></a> </p>
 
