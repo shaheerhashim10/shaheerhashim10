@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/shaheerhashim10" target="blank"><img src="https://img.shields.io/twitter/follow/shaheerhashim10?logo=twitter&style=for-the-badge" alt="shaheerhashim10" /></a> </p>
 
-- 🔭 I’m currently working on [Unlockd](https://www.unlockd.finance/)
+- 🔭 I’m currently working on [Moniepoint](https://moniepoint.com/)
 
-- 👨‍💻 My [portfolio website ](https://shaheerhashim10.vercel.app/)
+- 👨‍💻 My [portfolio website ](https://shaheerhashim.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
